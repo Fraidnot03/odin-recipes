@@ -1,0 +1,17 @@
+.heading {
+    color: red;
+    background-color: black;
+    font-size: 100px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.first, .second, .third {
+    font-size: 40px;
+}
+
+
+
+.pic {
+    height: auto;
+    width: 500px;
+}
